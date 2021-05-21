@@ -1,0 +1,7 @@
+.slidev-layout {
+  h1, h2, h3, h4, p, div {
+    font-family:
+      'M+ C Type-1 (basic latin) Regular',
+      'M+ Type-1 (general-j) Regular', sans-serif;
+  }
+}
